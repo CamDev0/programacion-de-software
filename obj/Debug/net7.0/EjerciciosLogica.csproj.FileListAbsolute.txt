@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Escritorio\EjerciciosLogica\bin\Debug\net7.0\EjerciciosLogica.exe
+C:\Users\asus\OneDrive\Escritorio\EjerciciosLogica\bin\Debug\net7.0\EjerciciosLogica.deps.json
+C:\Users\asus\OneDrive\Escritorio\EjerciciosLogica\bin\Debug\net7.0\EjerciciosLogica.runtimeconfig.json
+C:\Users\asus\OneDrive\Escritorio\EjerciciosLogica\bin\Debug\net7.0\EjerciciosLogica.dll
+C:\Users\asus\OneDrive\Escritorio\EjerciciosLogica\bin\Debug\net7.0\EjerciciosLogica.pdb
+C:\Users\asus\OneDrive\Escritorio\EjerciciosLogica\obj\Debug\net7.0\EjerciciosLogica.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Escritorio\EjerciciosLogica\obj\Debug\net7.0\EjerciciosLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Escritorio\EjerciciosLogica\obj\Debug\net7.0\EjerciciosLogica.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Escritorio\EjerciciosLogica\obj\Debug\net7.0\EjerciciosLogica.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Escritorio\EjerciciosLogica\obj\Debug\net7.0\EjerciciosLogica.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Escritorio\EjerciciosLogica\obj\Debug\net7.0\EjerciciosLogica.dll
+C:\Users\asus\OneDrive\Escritorio\EjerciciosLogica\obj\Debug\net7.0\refint\EjerciciosLogica.dll
+C:\Users\asus\OneDrive\Escritorio\EjerciciosLogica\obj\Debug\net7.0\EjerciciosLogica.pdb
+C:\Users\asus\OneDrive\Escritorio\EjerciciosLogica\obj\Debug\net7.0\EjerciciosLogica.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Escritorio\EjerciciosLogica\obj\Debug\net7.0\ref\EjerciciosLogica.dll
